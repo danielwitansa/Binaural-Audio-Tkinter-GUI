@@ -6,4 +6,4 @@ To run this code, first you need to install some dependencies. You need to insta
 
 After that, change the directory path where the audio dataset files located.
 
-Lastly you can run the code [Example Python File](test-play-audio2.py)
+Lastly you can run the code [Audio Test Python File](test-play-audio2.py)
